@@ -31,8 +31,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Renjith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Renjith's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renjithpec&show_icons=true&theme=radical" alt="Renjith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renjithpec&layout=compact&theme=radical" alt="Renjith's Top Languages" />
 </p>
 
 ---
@@ -41,6 +41,6 @@
 
 - **LinkedIn:** [Renjith R](https://www.linkedin.com/in/renjith-r-52bb3b254/)
 - **Email:** renjithrlpec23cs048@cepathanapuram.ac.in
-- **Twitter:** [@YourTwitterHandle](https://x.com/rnrd_dev)
+- **Twitter:** (https://x.com/rnrd_dev)
 
 "Every line of code is a new opportunity to learn, build, and innovate. Let's create something great together!"
