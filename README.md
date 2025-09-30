@@ -1,6 +1,6 @@
 ### Hi there, I'm Renjith R 👋
 
-🚀 I'm a third-year Computer Science student and a tech enthusiast with a strong passion for software development, particularly in **full-stack web applications**. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and enjoy turning ideas into tangible, real-world projects. I believe in learning by doing and constantly seek opportunities to collaborate and grow.
+🚀 I'm a third-year Computer Science student with a deep passion for software development. I am particularly excited by full-stack web applications and am currently diving deep into the MERN stack (MongoDB, Express.js, React.js, Node.js). I believe in learning by doing and constantly seek new challenges.
 
 ---
 
@@ -8,6 +8,7 @@
 
 - **Hospital Pharmacy Management System:** Led the development of a full-stack application for a DBMS mini-project. The system is designed to manage pharmacy operations, including inventory, sales, and patient records, using **Node.js** and **MySQL**.
 - **Library Management System:** Developed a comprehensive web-based system to manage library operations. This project features book inventory management, user registration, and a system for tracking borrowed and returned books.
+- **Currency Detection using Computer Vision:** Built a system to detect and count currency in real-time, designed to assist visually impaired individuals. The project enhances accessibility and financial inclusivity through technology.
 
 ---
 
