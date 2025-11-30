@@ -6,6 +6,7 @@
 
 ### 💼 Experience & Projects
 
+- **BroFix Portal:** Architected a production-ready student grievance redressal platform with a strict dark-themed glassmorphism UI. The system features advanced Role-Based Access Control (Super Admin, Branch Admin, Student), real-time notifications using **Supabase Realtime**, branch-specific data isolation, and a complete resolution feedback loop with star ratings. Built using **React**, **Tailwind CSS**, and **Supabase**.
 - **Hospital Pharmacy Management System:** Led the development of a full-stack application for a DBMS mini-project. The system is designed to manage pharmacy operations, including inventory, sales, and patient records, using **Node.js** and **MySQL**.
 - **Library Management System:** Developed a comprehensive web-based system to manage library operations. This project features book inventory management, user registration, and a system for tracking borrowed and returned books.
 - **Currency Detection using Computer Vision:** Built a system to detect and count currency in real-time, designed to assist visually impaired individuals. The project enhances accessibility and financial inclusivity through technology.
@@ -15,9 +16,9 @@
 ### 🛠️ Technologies & Tools
 
 - **Languages:** `JavaScript`, `Python`, `Java`, `C++`, `C`
-- **Frontend:** `HTML5`, `CSS3`, `React.js`
+- **Frontend:** `HTML5`, `CSS3`, `React.js`, `Tailwind CSS`
 - **Backend:** `Node.js`
-- **Databases:** `MySQL`, `MongoDB`
+- **Databases & Cloud:** `MySQL`, `MongoDB`, `Supabase`
 - **Tools & Platforms:** `Git`, `GitHub`, `VS Code`
 
 ---
@@ -42,6 +43,6 @@
 
 - **LinkedIn:** [Renjith R](https://www.linkedin.com/in/renjith-r-52bb3b254/)
 - **Email:** renjithrlpec23cs048@cepathanapuram.ac.in
-- **Twitter:** (https://x.com/rnrd_dev)
+- **Twitter:** [rnrd_dev](https://x.com/rnrd_dev)
 
 "Every line of code is a new opportunity to learn, build, and innovate. Let's create something great together!"
